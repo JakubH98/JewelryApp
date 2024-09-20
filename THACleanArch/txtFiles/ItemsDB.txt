@@ -1,0 +1,4 @@
+﻿g456, Guldhalskæde, 4580.50
+s456, Sølvhalskæde, 3200.00
+d456, Diamantring, 5000.00
+g457, Guldarmbånd, 400.00
